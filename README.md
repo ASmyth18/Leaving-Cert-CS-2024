@@ -39,7 +39,7 @@ Here, you will find a collection of practice questions organized by topic. These
 
 ## Resources
 
-This section will include a list of useful resources, such as online tutorials, books, articles, and websites that I have found helpful in my study journey.
+This section will include a list of useful resources, such as online tutorials, books, research papers, and websites.
 
 ## Contributing
 
