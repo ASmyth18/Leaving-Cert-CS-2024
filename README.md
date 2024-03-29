@@ -33,6 +33,9 @@ This repository serves as a centralised location for all my code, and projects a
 
 This section will contain a list of projects that I have completed as part of my preparation for the exam. (WIP)
 
+- Algorithms and Complexity
+  - [Algorithm](Algorithms)
+
 ## Practice Questions
 
 Here, you will find a collection of practice questions organized by topic. These questions will help me reinforce my understanding of the concepts and prepare for the exam.
