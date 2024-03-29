@@ -38,7 +38,7 @@ This section will contain a list of projects that I have completed as part of my
 Here, you will find a collection of practice questions organized by topic. These questions will help me reinforce my understanding of the concepts and prepare for the exam.
 
 - Past Coding Exams:
-  - [2023](LCCS_PQ)
+  - [2023](LCCS_PQ/2023)
 
 ## Resources
 
