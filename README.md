@@ -6,7 +6,7 @@ This repository contains my work, practice questions, and projects related to th
 
 - [Introduction](#introduction)
 - [Topics Covered](#topics-covered)
-- [Projects](#projects/work)
+- [Projects/Work](#projects/work)
 - [Practice Questions](#practice-questions)
 - [Resources](#resources)
 - [Contributing](#contributing)
