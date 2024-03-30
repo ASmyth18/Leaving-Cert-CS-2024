@@ -2,7 +2,7 @@
 # Examination Number: 129478
 
 print("*******************")
-print("Times Table program") # Change from “Multiplication program”
+print("Times Table program") # Changed from “Multiplication program”
 print("*******************")
 
 number = int(input("Please enter a number to be used as the multiplier: "))
