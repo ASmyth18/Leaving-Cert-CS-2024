@@ -68,7 +68,7 @@ This section will contain a list of projects and code related to the topics abov
   - Alt1 is the implementation of a website that displays data from a database: I cannot find my original file and dislike Firebase too much to recreate it.
   - [ALT2](Alt2)
   - [ALT3](Alt3.py)
-  - [ALT4]
+  - [ALT4](Alt4)
 
 
 ## Practice Questions
