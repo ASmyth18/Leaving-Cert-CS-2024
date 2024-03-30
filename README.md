@@ -28,6 +28,7 @@ This repository serves as a centralised location for all my code, and projects a
 - Computer Networks
 - Computer Security
 - Machine/Deep Learning(LLM's, vision, predictive modelling)
+- Micro:Bit
 
 ## Projects/Work
 
@@ -61,6 +62,8 @@ This section will contain a list of projects and code related to the topics abov
 - Machine/Deep Learning
   - [Machine Vision](Machine_vision.py)
   - [LLM](https://github.com/ASmyth18/LLM)
+- Micro:Bit
+  - [Micro:Bit code for a Heart Rate Monitor](MicroBit)
 
 
 ## Practice Questions
