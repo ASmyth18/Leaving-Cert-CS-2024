@@ -38,6 +38,11 @@ This section will contain a list of projects that I have completed as part of my
   - [Complexity](Complexity)
 - Data Structures
   - [Leet Code Q's](Data_Structures)
+  - Academic Papers
+    - [An O(1) algorithm for implementing the LFU cache eviction scheme](https://dl.acm.org/doi/10.1145/1835698.1835750)
+    - [Efficient Trie-Based Sorting of Large Sets of Strings](https://dl.acm.org/doi/10.5555/314161.314321)
+    - [The Median of Two Sorted Arrays](https://dl.acm.org/doi/10.1145/6617.6628)
+    - [The Segment Tree: A New Data Structure for Range Searching in Temporal Databases](https://dl.acm.org/doi/10.1145/115790.115816)
 
 ## Practice Questions
 
@@ -45,7 +50,7 @@ Here, you will find a collection of practice questions organized by topic. These
 
 - Past Coding Exams:
   - [2023](LCCS_PQ/2023)
-
+    
 ## Resources
 
 This section will include a list of useful resources, such as online tutorials, books, research papers, and websites.
