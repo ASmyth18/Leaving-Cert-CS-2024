@@ -1,3 +1,9 @@
+import win32serviceutil
+import win32service
+import win32event
+import servicemanager
+import socket
+
 # Import necessary libraries
 from scapy.all import *  # Import all functions and classes from Scapy
 import logging  # Import the logging module for logging purposes
@@ -74,16 +80,16 @@ def packet_filter(packet):
 
         # Block incoming traffic on specific ports
         if packet.haslayer(TCP) and packet[TCP].dport not in allowed_ports:
-            logging.warning(f"Blocked incoming TCP traffic on port {packet[TCP].dport}")  # Log blocked TCP traffic
+            logging.warning(f"Blocked incoming TCP traffic on port {packet[TCP].dport}") # Log blocked TCP traffic
             return False
         if packet.haslayer(UDP) and packet[UDP].dport not in allowed_ports:
-            logging.warning(f"Blocked incoming UDP traffic on port {packet[UDP].dport}")  # Log blocked UDP traffic
+            logging.warning(f"Blocked incoming UDP traffic on port {packet[UDP].dport}") # Log blocked UDP traffic
             return False
 
-        # Block unsupported protocols
-        if protocol not in allowed_protocols:
-            logging.warning(f"Blocked traffic with unsupported protocol: {protocol}")  # Log blocked traffic
-            return False
+    # Block unsupported protocols
+    if protocol not in allowed_protocols:
+        logging.warning(f"Blocked traffic with unsupported protocol: {protocol}")  # Log blocked traffic
+        return False
 
     return True
 
@@ -195,7 +201,30 @@ def start_firewall():
     threading.Thread(target=periodic_tasks).start()  # Start periodic tasks in separate thread
     process_packets()  # Start packet processing
 
-# Main entry point
+class FirewallService(win32serviceutil.ServiceFramework):
+    _svc_name_ = "PythonFirewall"
+    _svc_display_name_ = "Python Firewall Service"
+    _svc_description_ = "A custom firewall implemented in Python"
+
+    def __init__(self, args):
+        win32serviceutil.ServiceFramework.__init__(self, args)
+        self.hWaitStop = win32event.CreateEvent(None, 0, 0, None)
+        socket.setdefaulttimeout(60)
+
+    def SvcStop(self):
+        self.ReportServiceStatus(win32service.SERVICE_STOP_PENDING)
+        win32event.SetEvent(self.hWaitStop)
+
+    def SvcDoRun(self):
+        servicemanager.LogMsg(servicemanager.EVENTLOG_INFORMATION_TYPE,
+                              servicemanager.PYS_SERVICE_STARTED,
+                              (self._svc_name_, ''))
+        self.main()
+
+    def main(self):
+        start_firewall()
+
 if __name__ == "__main__":
-    start_firewall()  # Start the firewall
+    win32serviceutil.HandleCommandLine(FirewallService)
+
                 
