@@ -58,6 +58,10 @@ This section will contain a list of projects and code related to the topics abov
   - [Computer Network basics](Computer_Networks/C_Networks.py)
 - Computer Security(Don't use the anomaly_test or uploader to do anything dubious, please)
   - [Firewall and related scripts](Firewall)
+- Machine/Deep Learning
+  - [Machine Vision](Machine_vision.py)
+  - [LLM](https://github.com/ASmyth18/LLM)
+
 
 ## Practice Questions
 
