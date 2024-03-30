@@ -31,7 +31,7 @@ This repository serves as a centralised location for all my code, and projects a
 
 ## Projects
 
-This section will contain a list of projects that I have completed as part of my preparation for the exam. (WIP)
+This section will contain a list of projects and code related to the topics above that I have completed as part of my preparation for the exam. (WIP)
 
 - Algorithms and Complexity
   - [Algorithm](Algorithms)
