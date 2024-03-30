@@ -39,7 +39,7 @@ This section will contain a list of projects that I have completed as part of my
 - Data Structures
   - [Leet Code Q's](Data_Structures)
   - Academic Papers
-    - [An O(1) algorithm for implementing the LFU cache eviction scheme](https://dl.acm.org/doi/10.1145/1835698.1835750)
+    - An O(1) algorithm for implementing the LFU cache eviction scheme || Paper was removed
     - [Efficient Trie-Based Sorting of Large Sets of Strings](https://dl.acm.org/doi/10.5555/314161.314321)
     - [The Median of Two Sorted Arrays](https://dl.acm.org/doi/10.1145/6617.6628)
     - [The Segment Tree: A New Data Structure for Range Searching in Temporal Databases](https://dl.acm.org/doi/10.1145/115790.115816)
