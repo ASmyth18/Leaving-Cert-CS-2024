@@ -43,6 +43,8 @@ This section will contain a list of projects that I have completed as part of my
     - [Efficient Trie-Based Sorting of Large Sets of Strings](https://dl.acm.org/doi/10.5555/314161.314321)
     - [The Median of Two Sorted Arrays](https://dl.acm.org/doi/10.1145/6617.6628)
     - [The Segment Tree: A New Data Structure for Range Searching in Temporal Databases](https://dl.acm.org/doi/10.1145/115790.115816)
+- Object Oriented Programming
+   - [OOP Example](OOP.py)
 
 ## Practice Questions
 
