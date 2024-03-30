@@ -36,6 +36,8 @@ This section will contain a list of projects that I have completed as part of my
 - Algorithms and Complexity
   - [Algorithm](Algorithms)
   - [Complexity](Complexity)
+- Data Structures
+  - [Leet Code Q's](Data_Structures)
 
 ## Practice Questions
 
