@@ -1,5 +1,5 @@
 """
-Alt 3 asks the student to create a programme that solves a problem that is traditionally considered diffcult to solve analytically.
+Alt 3 asks the student to create a programme that solves a problem that is traditionally considered difficult to solve analytically.
 They provide an example here:
 https://www.curriculumonline.ie/senior-cycle/senior-cycle-subjects/computer-science/support-material-for-teaching-and-learning/2-alt-resources/alt3-support/
 However, the Python example they provide seems to miss the point of the prompt and thus, I decided to branch down a different route:
