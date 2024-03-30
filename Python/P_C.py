@@ -22,7 +22,7 @@ person = {"name": "John", "age": 25}
 person["city"] = "New York"
 print(person)
 
-# Sets
+# Sets || Sets differ from tuples and lists by the fact that they cannot have repeat values-e.g. you cannot have "apple" at index[1] and at index[2]
 fruits = {"apple", "banana", "orange"}
 fruits.add("grape")
 print(fruits)
