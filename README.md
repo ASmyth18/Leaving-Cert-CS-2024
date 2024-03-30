@@ -57,6 +57,8 @@ Here, you will find a collection of practice questions organized by topic. These
 
 This section will include a list of useful resources, such as online tutorials, books, research papers, and websites.
 
+[Attention is All you Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+
 ## Contributing
 
 This is a personal repository for my exam preparation, so contributions are not expected. However, if you have any suggestions or feedback, feel free to open an issue or contact me directly.
