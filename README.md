@@ -49,7 +49,7 @@ This section will contain a list of projects and code related to the topics abov
   - [Kaggle Account](https://www.kaggle.com/adamsmyth)
 - Programming Concepts and Languages(Python + the Web trio)
   - [Python](Python_Concepts)
-     - [Basics](P_C.py)
+     - [Basics](Python/P_C.py)
 
 ## Practice Questions
 
