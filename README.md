@@ -50,7 +50,7 @@ This section will contain a list of projects and code related to the topics abov
 - Programming Concepts and Languages(Python + the Web trio)
   - [Python](Python_Concepts)
      - [Basics](Python/P_C.py)
-     - [Basics](Python/P_C2.py)
+     - [Advanced](Python/P_C2.py)
 
 
 ## Practice Questions
