@@ -83,6 +83,9 @@ Here, you will find a collection of practice questions organized by topic. These
 This section will include a list of useful resources, such as online tutorials, books, research papers, and websites.
 
 [Attention is All you Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+[Alt information](https://ncca.ie/media/3261/lccs-information-brochure.pdf)
+[Alt resources](https://www.curriculumonline.ie/senior-cycle/senior-cycle-subjects/computer-science/support-material-for-teaching-and-learning/2-alt-resources/)
+[Algorithms](https://books.google.ie/books?hl=en&lr=&id=MTpsAQAAQBAJ&oi=fnd&pg=PR6&dq=algorithms&ots=QhkBFSJdlS&sig=g1Umub35sW_YsfYFPWgIKPpa_40&redir_esc=y#v=onepage&q=algorithms&f=false)
 
 ## Contributing
 
