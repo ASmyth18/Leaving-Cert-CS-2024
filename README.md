@@ -14,7 +14,7 @@ This repository contains my work, practice questions, and projects related to th
 
 ## Introduction
 
-This repository serves as a centralised location for all my code, and projects as I prepare for the 2024 Leaving Cert Computer Science exam. It includes practice questions, projects, and resources that cover various topics in the curriculum( and a lot of stuff not in the curriculum).
+This repository serves as a centralised location for all my code, and projects as I prepare for the 2024 Leaving Cert Computer Science exam. It includes practice questions, projects, and resources that cover various topics in the curriculum(and a lot of stuff not in the curriculum).
 
 ## Topics Covered
 
