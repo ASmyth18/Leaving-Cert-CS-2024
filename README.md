@@ -51,7 +51,7 @@ This section will contain a list of projects and code related to the topics abov
   - [Python](Python_Concepts)
      - [Basics](Python/P_C.py)
      - [Advanced](Python/P_C2.py)
-  - [HTML/CSS/JS](HTML/CSS/JS)
+  - [HTML/CSS/JS](HTML_CSS_JS)
 
 ## Practice Questions
 
