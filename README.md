@@ -29,7 +29,7 @@ This repository serves as a centralised location for all my code, and projects a
 - Computer Security
 - Machine/Deep Learning(LLM's, vision, predictive modelling)
 
-## Projects
+## Projects/Work
 
 This section will contain a list of projects and code related to the topics above that I have completed as part of my preparation for the exam. (WIP)
 
