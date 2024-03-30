@@ -90,6 +90,8 @@ This section will include a list of useful resources, such as online tutorials, 
 
 [Algorithms](https://books.google.ie/books?hl=en&lr=&id=MTpsAQAAQBAJ&oi=fnd&pg=PR6&dq=algorithms&ots=QhkBFSJdlS&sig=g1Umub35sW_YsfYFPWgIKPpa_40&redir_esc=y#v=onepage&q=algorithms&f=false)
 
+[Truly the greatest book of all time and it's free](https://www.statlearning.com/)
+
 ## Contributing
 
 This is a personal repository for my exam preparation, so contributions are not expected. However, if you have any suggestions or feedback, feel free to open an issue or contact me directly.
