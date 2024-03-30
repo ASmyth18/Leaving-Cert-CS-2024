@@ -54,7 +54,7 @@ This section will contain a list of projects and code related to the topics abov
   - [HTML/CSS/JS](HTML_CSS_JS)
  - Databases
    - [Database Practice](Databases)
-  - Computer Security
+  - Computer Security(Probably excessive given the scope of the course)
     - [Firewall and related scripts](Firewall)
 
 ## Practice Questions
