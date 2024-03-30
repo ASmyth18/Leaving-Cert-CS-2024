@@ -92,6 +92,8 @@ This section will include a list of useful resources, such as online tutorials, 
 
 [Truly the greatest book of all time and it's free](https://www.statlearning.com/)
 
+[Harvard CS course](https://youtu.be/8mAITcNt710?si=L5RLJmuyXqIAmQeC)
+
 ## Contributing
 
 This is a personal repository for my exam preparation, so contributions are not expected. However, if you have any suggestions or feedback, feel free to open an issue or contact me directly.
