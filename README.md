@@ -64,6 +64,11 @@ This section will contain a list of projects and code related to the topics abov
   - [LLM](https://github.com/ASmyth18/LLM)
 - Micro:Bit
   - [Micro:Bit code for a Heart Rate Monitor](MicroBit)
+- Applied Learning Tasks
+  - [ALT1]
+  - [ALT2](Alt2)
+  - [ALT3]
+  - [ALT4]
 
 
 ## Practice Questions
