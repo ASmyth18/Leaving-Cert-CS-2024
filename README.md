@@ -45,6 +45,8 @@ This section will contain a list of projects and code related to the topics abov
     - [The Segment Tree: A New Data Structure for Range Searching in Temporal Databases](https://dl.acm.org/doi/10.1145/115790.115816)
 - Object Oriented Programming
    - [OOP Example](OOP.py)
+- Data Representation and Manipulation
+  - [Kaggle Account](https://www.kaggle.com/adamsmyth)
 
 ## Practice Questions
 
