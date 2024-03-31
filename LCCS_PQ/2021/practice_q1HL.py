@@ -1,7 +1,7 @@
 # Question 16(a)
 # Examination Number: 129478
 
-# This docstring will contain an optimised version of the code because the way they want you to do it is bad
+# This docstring contains an optimised version of the code because the way they want you to do it is bad
 """
 def is_anagram(w1, w2):
     return sorted(w1.replace(" ", "").lower()) == sorted(w2.replace(" ", "").lower())
