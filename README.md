@@ -73,7 +73,7 @@ This section will contain a list of projects and code related to the topics abov
 
 ## Practice Questions
 
-Here, you will find a collection of practice questions organized by topic. These questions will help me reinforce my understanding of the concepts and prepare for the exam.
+You can find a collection of my solutions to past coding exams here
 
 - Past Coding Exams:
   - [2023](LCCS_PQ/2023)
