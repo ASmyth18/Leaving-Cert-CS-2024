@@ -3,7 +3,7 @@ import threading
 from queue import Queue
 
 target = input("Enter the target IP address: ")
-port_range = input("Enter the port range to scan (e.g., 1-1000): ")
+port_range = input("Enter the port range to scan (e.g., 1-65,535): ")
 start_port, end_port = map(int, port_range.split('-'))
 
 def scan_port(port):
