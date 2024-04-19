@@ -80,7 +80,7 @@ You can find a collection of my solutions to past coding exams here
   - [2022](LCCS_PQ/2022)
   - [2021](LCCS_PQ/2021)
   - [2020](LCCS_PQ/2020)
-  - [Sample Paper](LC_samplePaper)
+  - [Sample Paper](LCCS_PQ/LC_samplePaper)
     
 ## Resources
 
