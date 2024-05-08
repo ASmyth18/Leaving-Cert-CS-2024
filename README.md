@@ -81,7 +81,7 @@ You can find a collection of my solutions to past coding exams here
   - [2021](LCCS_PQ/2021)
   - [2020](LCCS_PQ/2020)
   - [Sample Paper](LCCS_PQ/LC_samplePaper)
-  - [Self made paper](Computer Science Exam.pdf)
+  - [Self made paper](Computer_Science_Exam.pdf)
     
 ## Resources
 
