@@ -60,4 +60,17 @@ measure_time(linear_time, n)
 measure_time(linearithmic_time, n)
 measure_time(quadratic_time, n)
 measure_time(exponential_time, n)
+
 # measure_time(factorial_time, n)  # Uncomment this line to test factorial time (Only do so if you have a modern computer)
+"""
+| Complexity         | Example for ( n = 10^3 )  | Relative Size             |
+| ------------------ | ------------------------- | ------------------------- |
+| ( O(1) )           | ~1                        | Constant time             |
+| ( O(\log n) )      | ~10                       | Tiny increase             |
+| ( O(n) )           | 1,000                     | Linear growth             |
+| ( O(n \log n) )    | ~10,000                   | Common in efficient sorts |
+| ( O(n^2) = O(mn) ) | 1,000,000                 | Becomes slow very quickly |
+| ( O(n^3) )         | (10^9)                    | Infeasible for large (n)  |
+| ( O(2^n) )         | (10^{301}) (for (n=1000)) | Astronomical              |
+| ( O(n!) )          | beyond (10^{2500})        | Impossible to compute     |
+"""
