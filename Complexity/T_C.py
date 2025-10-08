@@ -74,3 +74,14 @@ measure_time(exponential_time, n)
 | ( O(2^n) )         | (10^{301}) (for (n=1000)) | Astronomical              |
 | ( O(n!) )          | beyond (10^{2500})        | Impossible to compute     |
 """
+
+"""
+Suppose that each operation takes 1 microsecond
+| ( n )   | ( O(n) ) | ( O(n^2) )        |
+| ------- | -------- | ----------------- |
+| 10      | 10 µs    | 100 µs            |
+| 100     | 100 µs   | 10 ms             |
+| 1,000   | 1 ms     | 1 s               |
+| 10,000  | 10 ms    | 100 s (≈ 1.6 min) |
+| 100,000 | 0.1 s    | 3 hours           |
+"""
